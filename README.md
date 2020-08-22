@@ -1,4 +1,3 @@
 # Apps-utils
 
-Este repo es para alojar recursos externos compartidos
-
+This repo hosts resources for external apps
